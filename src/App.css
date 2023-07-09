@@ -1,0 +1,45 @@
+
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+body{
+  background: #c31432;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 100Vh;
+  width: 100%;
+}
+.Home-nav-list .btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Home-nav-list .btn span{
+  display: flex;
+  margin: 0 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .Home-nav-list a{
+    margin: 2px 0;
+  }
+  .Home-nav-list{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .Home-nav-list .btn{
+    width: 40%;
+  }
+}
+.homeclass{
+  height: 91vh;
+  width: 100%;
+  background-image: url("./Assert/Images/bgimage.png");
+  background-size: cover;
+  background-position: center;
+
+}

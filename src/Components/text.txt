@@ -1,0 +1,29 @@
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Pantop 40', 135, 'https://www.kauverymeds.com/uploads/product/main/1646037438_7153_0.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Clavam 625', 160, 'https://images.apollo247.in/pub/media/catalog/product/c/l/cla0004.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Calpol 500', 20, 'https://www.practostatic.com/practopedia-images/v3/res-750/calpol-500mg-tablet-covid-essentials-15-s_d46c7374-2f79-45a8-987b-00c6efb3e71a.JPG', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Stematil MD', 150, 'https://images.apollo247.in/pub/media/catalog/product/S/T/STE0527_1_1.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Amlosafe AT', 100, 'https://cdn01.pharmeasy.in/dam/products/009545/amlosafe-at-tablet-1-1641535095.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Vicks VapoRub', 100, 'https://cdn01.pharmeasy.in/dam/products_otc/V34304/vicks-vaporub-relieves-from-6-cough-cold-symptoms-105ml-2-1680334304.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Vitazyme sy', 120, 'https://res.fkhealthplus.com/incom/images/product/Vitazyme-Syrup-1669108678-10006650-1.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('A to Z Syrup', 180, 'https://www.netmeds.com/images/product-v1/600x600/1029169/a_to_z_ns_mango_flavour_syrup_100ml_359992_0_3.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Elixir Neogadine', 220, 'https://cdn01.pharmeasy.in/dam/products/248302/neogadine-elixir-syrup-450ml-box-front-1-1597363299.jpg', 50, '2024-12-20');
+
+INSERT INTO Medicines (Name, Price, ImageUrl, Quantity, ExpDate)
+VALUES ('Volini gel', 150, 'https://cdn01.pharmeasy.in/dam/products_otc/193648/volini-pain-relief-gel-tube-of-15-g-2-1671740950.jpg', 50, '2024-12-20');
